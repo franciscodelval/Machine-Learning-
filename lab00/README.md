@@ -1,0 +1,1 @@
+Se ha realizado un análisis exploratorio de la base de datos https://www.kaggle.com/justinas/nba-players-data en la cual se han calculado correlaciones entre las variables, la eficiencia de los jugadores y su relación entre peso y altura.
